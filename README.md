@@ -42,17 +42,23 @@
 ---
 
 ## 📑 Deliverables
-- **SQL Scripts**
- [superstore_sales_queries.sql](sql/superstore_sales_queries.sql)
+
+ **SQL Scripts**
+  
+ [superstore_sales_queries.sql](sql/superstore_sales_queries.sql)   → Table schema, data import, and analysis queries 
 
  **Power BI Files**  
-  - [Superstore_Sales_Analysis.pbix](Project2_Sales_&_Revenue_Performance_Dashboard.pbix) 
-  - [Superstore_Sales_Analysis.pdf](Sales_&_Revenue_Performance_Dashboard.pdf)
+ 
+  - [Superstore_Sales_Analysis.pbix](Project2_Sales_&_Revenue_Performance_Dashboard.pbix)   → Full interactive dashboard
+    
+  - [Superstore_Sales_Analysis.pdf](Sales_&_Revenue_Performance_Dashboard.pdf)   → Exported dashboard (quick offline preview)  
+
 
 **Business Report**  
   - [Superstore_Analysis_Report.pdf](Superstore_Sales_Analysis_Report.pdf) → Executive report with introduction, process, visuals, insights, and conclusion
-  - 
-- Screenshots for quick preview
+
+
+  **Screenshots for quick preview**
 
   <img width="1881" height="1007" alt="Page 1 (Project 2 Dashboard)" src="https://github.com/user-attachments/assets/5d46625e-983d-47f8-a302-3ee4fdf83aac" />
   <img width="1795" height="997" alt="Page 2 (Project 2 Dashboard)" src="https://github.com/user-attachments/assets/3dc0e5cc-e64c-4d5b-8f2f-b023282c01ab" />
