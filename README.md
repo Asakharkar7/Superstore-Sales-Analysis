@@ -45,7 +45,7 @@
 
  **SQL Scripts**
   
- [superstore_sales_queries.sql](sql/superstore_sales_queries.sql)   → Table schema, data import, and analysis queries 
+ [superstore_sales_queries.sql](superstore_sales_queries.sql)   → Table schema, data import, and analysis queries 
 
  **Power BI Files**  
  
