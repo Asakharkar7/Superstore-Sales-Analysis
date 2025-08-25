@@ -42,10 +42,16 @@
 ---
 
 ## 📑 Deliverables
-- PostgreSQL schema + queries (`/sql`)  
-- Power BI dashboard (`.pbix` + PDF export)  
-- Business Report (`/report/Superstore_Analysis_Report.pdf`)  
-- README documentation (this file)  
+- **SQL Scripts**
+ [superstore_sales_queries.sql](sql/superstore_sales_queries.sql)
+
+ **Power BI Files**  
+  - [Superstore_Sales_Analysis.pbix](Project2_Sales_&_Revenue_Performance_Dashboard.pbix) 
+  - [Superstore_Sales_Analysis.pdf](Sales_&_Revenue_Performance_Dashboard.pdf)
+
+**Business Report**  
+  - [Superstore_Analysis_Report.pdf](Superstore_Sales_Analysis_Report.pdf) → Executive report with introduction, process, visuals, insights, and conclusion
+  - 
 - Screenshots for quick preview
 
   <img width="1881" height="1007" alt="Page 1 (Project 2 Dashboard)" src="https://github.com/user-attachments/assets/5d46625e-983d-47f8-a302-3ee4fdf83aac" />
